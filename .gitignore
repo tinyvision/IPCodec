@@ -1,0 +1,10 @@
+*.pyc
+__pycache__/
+*/__pycache__/*
+*/.DS_Store
+*/*/.DS_Store
+*/*/*/.DS_Store
+dataset/kodak/*.png
+trans_code_by_oss.sh
+checkpoint/I_model
+checkpoint/P_model
